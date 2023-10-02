@@ -1,7 +1,5 @@
 # magneturi
 
-# magneturi
-
 [![build-img]][build-url]
 [![pkg-img]][pkg-url]
 [![version-img]][version-url]
